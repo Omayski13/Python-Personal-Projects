@@ -1,6 +1,8 @@
 import random
 import time
 
+
+
 name_gamer = input("Напиши си името : \n")
 print(f"Здравей, {name_gamer},")
 print('Добре дошъл в играта "Дузпи"\n')
